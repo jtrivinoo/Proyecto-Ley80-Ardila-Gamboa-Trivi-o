@@ -4,9 +4,6 @@ EN
 You can add detailed description in this markdown related to your specific data science project.
 
  The folder contains books in Pyton language, with extension .ipynb (jupiter source file) that are:
-   * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Proyecto_Ley_80_huggingface.ipynb 
-       desc:  Transformative application used to easily download and train state-of-the-art pre-trained models, uses in NLP, computer vision, audio and multimodal fields.
-
    * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Proyecto_Ley_80_steam_TFIDF.ipny
        desc:  Using the steam technique, its main function is to reduce words to their root form and assign them to this form. As for TFIDF, it is used to identify the most relevant words in a text
 
@@ -26,10 +23,7 @@ ES
 Puede añadir una descripción detallada en esta nota relacionada con su proyecto específico de ciencia de datos.
 
  La carpeta contiene libros en lenguaje pyton, con extención .ipynb (Archivo de origen jupiter) los cueles son: 
-   * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Proyecto_Ley_80_huggingface.ipynb 
-       desc:  Aplicación de trasformers usada para descargar y entrenar fácilmente modelos preentrenados de última generación, usos en campoos de NLP, visión artificial, Audio, Multimodal
-
-   * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Proyecto_Ley_80_steam_TFIDF.ipny
+    * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Proyecto_Ley_80_steam_TFIDF.ipny
        desc:  Uso de la técnica steam, su principal función es reducir las palabras a su forma raiz y asignar las palabras a esta forma. En cuanto TFIDF es usada para identificar las palabras más relevantes de un texto.
 
    * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Proyecto_Ley_80_w2v.ipynb
