@@ -12,18 +12,24 @@ You can add detailed description in this markdown related to your specific data 
 
    * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Proyecto_Ley_80_w2v_steam.ipynb
        desc:  This model attempts to combine word to vec and steam techniques to take advantage of the benefits of each.
+       
+   * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Q_A_Ley_80_TFIDF_Steam_con_ChatGPT.py
+       desc:  This model generates a dash application that uses the Q&A model using the ChatGPT engine, with the context of the TFIDF Steam model. 
+       
+   * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Q_A_Ley_80_W2V_Steam_con_ChatGPT.py
+       desc:  This model generates a dash application that uses the Q&A model using the ChatGPT engine, with the context of the  Steam-Word to vec m odel. 
+       
+   * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Q_A_Ley_80_W2V_con_ChatGPT.py
+       desc:  This model generates a dash application that uses the Q&A model using the ChatGPT engine, with the context of the  Word to Vec model. 
 
-   * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Q_A Ley 80 con ChatGPT.py
-       desc:  This model generates a dash application that uses the Q&A model using the ChatGPT engine.. 
-
-
+   
 ES
 # Esta carpeta contiene código para modelado y actividades relacionadas (como ingeniería de características, evaluación de modelos, etc.).
 
 Puede añadir una descripción detallada en esta nota relacionada con su proyecto específico de ciencia de datos.
 
  La carpeta contiene libros en lenguaje pyton, con extención .ipynb (Archivo de origen jupiter) los cueles son: 
-    * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Proyecto_Ley_80_steam_TFIDF.ipny
+   * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Proyecto_Ley_80_steam_TFIDF.ipny
        desc:  Uso de la técnica steam, su principal función es reducir las palabras a su forma raiz y asignar las palabras a esta forma. En cuanto TFIDF es usada para identificar las palabras más relevantes de un texto.
 
    * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Proyecto_Ley_80_w2v.ipynb
@@ -32,5 +38,11 @@ Puede añadir una descripción detallada en esta nota relacionada con su proyect
    * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Proyecto_Ley_80_w2v_steam.ipynb
        desc:  Con este modelo se busca combinar las técnicas de word to vec y steam con el fin de aprovechar las bondades de cada técnica. 
 
-   * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Q_A Ley 80 con ChatGPT.py
-       desc:  Este modelo genera una aplicacion en dash que utiliza el modelo Q&A utilizando el motor de ChatGPT. 
+   * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Q_A_Ley_80_TFIDF_Steam_con_ChatGPT.py
+       desc:  Este modelo genera una aplicacion en dash que utiliza el modelo Q&A utilizando el motor de ChatGPT con el contexto arrojado del modelo Steam con TFIDF. 
+       
+   * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Q_A_Ley_80_W2V_Steam_con_ChatGPT.py
+       desc:  Este modelo genera una aplicacion en dash que utiliza el modelo Q&A utilizando el motor de ChatGPT con el contexto arrojado del modelo Steam con Word to vec. 
+       
+   * \Azure-TDSP-ProjectTemplate-master\Code\Modeling\Q_A_Ley_80_W2V_con_ChatGPT.py
+       desc:  Este modelo genera una aplicacion en dash que utiliza el modelo Q&A utilizando el motor de ChatGPT con el contexto arrojado del modelo Word to Vec. 
