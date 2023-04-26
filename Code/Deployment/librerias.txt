@@ -1,0 +1,27 @@
+Para ejecutar los codigo se recomiendad isntarlar las siguientes librerias
+pip install dash
+pip install dash-core-components
+pip install dash-html-components
+pip install transformers
+pip install codecs
+pip install glob
+pip install logging
+pip install multiprocessing
+pip install os
+pip install pprint
+pip install re
+pip install string
+pip install nltk
+pip install gensim
+pip install -U scikit-learn
+pip install numpy
+pip install matplotlib.pyplot 
+pip install pandas
+pip install pandas as pd
+pip install openai
+pip install sweetviz
+pip install tika
+pip install spacy
+pip install chardet2
+pip install parser201
+pip install wordcloud

@@ -1,0 +1,16 @@
+Instalación obligatoria:
+	conda install -c conda-forge kaggle
+	conda install -c anaconda urllib3
+	conda install -c conda-forge tika
+	conda install -c anaconda nltk
+	conda install -c anaconda chardet
+	conda install -c conda-forge spacy
+	conda install -c conda-forge wordcloud
+	conda install -c anaconda pymongo
+	conda install -c conda-forge azure-storage-blob
+	conda install -c conda-forge spacy-model-es_core_news_sm
+
+Instalación opcional:
+	conda install -c conda-forge pandas-profiling
+	pip install sweetviz
+
